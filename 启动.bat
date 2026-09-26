@@ -5,4 +5,5 @@ if not exist ".venv\Scripts\pythonw.exe" (
     pause
     exit /b 1
 )
-start "" ".venv\Scripts\pythonw.exe" "%~dp0jumpbot.py"
+start "" ".venv\Scripts\pythonw.exe" "%~dp0jumpbot.py" 
+#点这个文件启动整个项目
