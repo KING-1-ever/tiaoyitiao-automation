@@ -1,0 +1,7 @@
+.venv/
+tools/
+diagnostics/
+__pycache__/
+settings.json
+settings.json.tmp
+*.log
